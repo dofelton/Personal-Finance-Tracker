@@ -1,8 +1,7 @@
 # Overview
-{Provide a description of the software that you wrote and how it integrates with a Cloud Database. Describe how to use your program.}
+
 This is a Python based software project that tracks personal income, expenses, and budgets. It connects to a Firestore Cloud Database.
 
-{Describe your purpose for writing this software.}
 I used this project to learn and practice setting up and utilizing a Cloud-based database and to learn how to utilize Python to program the functionality and interact with the database as needed.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
